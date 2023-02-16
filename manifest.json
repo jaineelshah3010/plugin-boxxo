@@ -1,0 +1,10 @@
+{
+  "name": "Boxxo",
+  "id": "1208036718088223872",
+  "api": "1.0.0",
+  "main": "public/code.js",
+  "ui": "public/index.html",
+  "editorType": [
+    "figma"
+  ]
+}
